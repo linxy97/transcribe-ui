@@ -6,9 +6,9 @@ The project uses NextJS 13 App Router.
 
 
 ### Demo
-[link](https://izzy-transcribe.vercel.app/)
+[Web](https://izzy-transcribe.vercel.app/)
 
-![Demo](https://github.com/linxy97/transcribe-ui/tree/main/public/demo.jpg)
+![demo](https://github.com/linxy97/transcribe-ui/blob/main/public/demo.jpg?raw=true)
 
 ## Deploy with Vercel
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/linxy97/transcribe-ui)
